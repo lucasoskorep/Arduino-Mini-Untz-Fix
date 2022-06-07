@@ -1,0 +1,1 @@
+The instructions from https://learn.adafruit.com/mini-untztrument-3d-printed-midi-controller are outdated and do not run work with the current arduino libraries.  This script should fix the issues.  I was able to install this and get full compatibility with my mini UNTZ! 
